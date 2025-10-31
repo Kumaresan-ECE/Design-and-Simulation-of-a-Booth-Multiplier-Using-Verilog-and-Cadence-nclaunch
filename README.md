@@ -163,13 +163,16 @@ endmodule
 
 ![image](https://github.com/user-attachments/assets/742744b0-15e9-4c7c-8e0e-13a77f25673e)
 
-## Nclaunch Work Library Window
 
-![Screenshot 2025-05-21 163301](https://github.com/user-attachments/assets/4dc3ff0b-9533-4acd-98d2-e24df31eb513)
+ Library Window
+<img width="1920" height="1200" alt="EXP-8 WORK LIBRARY" src="https://github.com/user-attachments/assets/14bcde5b-dae1-4b3d-834f-2dedb5d813d5" />
+
+
 
 ## Simulation Results
 
-![Screenshot 2025-05-21 163243](https://github.com/user-attachments/assets/e7e22fcd-2e89-478a-9ccf-321bf9d6a07c)
+<img width="1920" height="1200" alt="EXP-8 OUTPUT" src="https://github.com/user-attachments/assets/679c1a9b-6e93-47cc-afea-0319271c6fb1" />
+
 
 
 ## Results
